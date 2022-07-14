@@ -1,1 +1,1 @@
-g_keys='AIzaSyAKUKysX4jGCUeUvgMYkgRgWSRskUvCkNk'
+g_keys='#############'
